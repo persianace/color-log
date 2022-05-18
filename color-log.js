@@ -53,5 +53,4 @@ const colorLog = (color, backgroundColor, modifier, ...args) => {
     modifiers.reset,
   );
 };
-
 module.exports = colorLog;
